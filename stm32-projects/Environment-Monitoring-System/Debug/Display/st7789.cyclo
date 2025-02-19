@@ -1,0 +1,5 @@
+../Display/st7789.c:50:16:ST7789_MemoryDataAccessControlConfig	7
+../Display/st7789.c:62:10:ST7789_Init	5
+../Display/st7789.c:73:10:ST7789_SetWindow	1
+../Display/st7789.c:82:10:ST7789_SleepIn	1
+../Display/st7789.c:87:10:ST7789_SleepOut	1

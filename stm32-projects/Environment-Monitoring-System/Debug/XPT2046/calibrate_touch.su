@@ -1,0 +1,5 @@
+../XPT2046/calibrate_touch.c:6:13:CoefCalc	1120	static
+../XPT2046/calibrate_touch.c:37:6:XPT2046_ConvertPoint	120	static
+../XPT2046/calibrate_touch.c:44:13:read_touch	16	static,ignoring_inline_asm
+../XPT2046/calibrate_touch.c:61:13:draw_calibrate_point	40	static
+../XPT2046/calibrate_touch.c:69:6:XPT2046_CalibrateTouch	144	static

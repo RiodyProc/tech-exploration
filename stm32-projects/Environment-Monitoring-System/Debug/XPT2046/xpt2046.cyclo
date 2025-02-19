@@ -1,0 +1,15 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1703:26:__NVIC_GetEnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1722:22:__NVIC_DisableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1775:22:__NVIC_ClearPendingIRQ	2
+../XPT2046/xpt2046.c:17:6:XPT2046_InitTouch	2
+../XPT2046/xpt2046.c:43:9:XPT2046_GetTouch	3
+../XPT2046/xpt2046.c:66:6:XPT2046_EXTICallback	3
+../XPT2046/xpt2046.c:84:6:XPT2046_TIMCallback	7
+../XPT2046/xpt2046.c:122:5:XPT2046_GetTemp	3
+../XPT2046/xpt2046.c:139:5:XPT2046_GetVbat	3
+../XPT2046/xpt2046.c:154:5:XPT2046_GetAux	3
+../XPT2046/xpt2046.c:174:12:get_adc_in	17
+../XPT2046/xpt2046.c:245:17:connect_on	1
+../XPT2046/xpt2046.c:270:13:connect_off	2
+../XPT2046/xpt2046.c:283:16:get_touch	8

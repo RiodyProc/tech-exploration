@@ -1,0 +1,2 @@
+../Drivers/UI/../lvgl/src/core/lv_obj_style.h:92:20:lv_obj_remove_style_all	1
+../Drivers/UI/ui_dateAndtimeSCR.c:8:6:ui_dateAndtimeSCR_screen_init	1

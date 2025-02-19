@@ -1,0 +1,5 @@
+../Core/Src/LCDController.c:43:6:lv_port_disp_init	8	static
+../Core/Src/LCDController.c:81:13:disp_init	8	static
+../Core/Src/LCDController.c:90:6:disp_enable_update	4	static
+../Core/Src/LCDController.c:97:6:disp_disable_update	4	static
+../Core/Src/LCDController.c:105:13:disp_flush	56	static

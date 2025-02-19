@@ -1,0 +1,2 @@
+../Drivers/UI/../lvgl/src/hal/../draw/../misc/lv_color.h:599:26:lv_color_hex	1
+../Drivers/UI/ui_tempSCR.c:10:6:ui_tempSCR_screen_init	1

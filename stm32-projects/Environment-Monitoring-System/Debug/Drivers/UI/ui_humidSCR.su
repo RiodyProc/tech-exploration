@@ -1,0 +1,2 @@
+../Drivers/UI/../lvgl/src/hal/../draw/../misc/lv_color.h:599:26:lv_color_hex	24	static
+../Drivers/UI/ui_humidSCR.c:10:6:ui_humidSCR_screen_init	40	static

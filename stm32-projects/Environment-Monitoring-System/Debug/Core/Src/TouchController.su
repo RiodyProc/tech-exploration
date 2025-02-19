@@ -1,0 +1,5 @@
+../Core/Src/TouchController.c:29:6:lv_port_indev_init	8	static
+../Core/Src/TouchController.c:58:13:touchpad_init	40	static
+../Core/Src/TouchController.c:73:13:touchpad_read	16	static
+../Core/Src/TouchController.c:93:13:touchpad_is_pressed	8	static
+../Core/Src/TouchController.c:104:13:touchpad_get_xy	24	static

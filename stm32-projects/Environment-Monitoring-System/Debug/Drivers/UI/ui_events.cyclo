@@ -1,0 +1,15 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rtc.h:990:22:LL_RTC_EnableWriteProtection	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rtc.h:1001:22:LL_RTC_DisableWriteProtection	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rtc.h:1026:22:LL_RTC_TIME_SetFormat	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rtc.h:1174:22:LL_RTC_TIME_Config	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rtc.h:1500:22:LL_RTC_DATE_Config	1
+../Drivers/UI/ui_events.c:7:6:amTochange	1
+../Drivers/UI/ui_events.c:18:6:pmTochange	1
+../Drivers/UI/ui_events.c:29:6:tempArch_need_flag	2
+../Drivers/UI/ui_events.c:38:6:humidArch_need_flag	2
+../Drivers/UI/ui_events.c:46:6:pressArch_need_flag	2
+../Drivers/UI/ui_events.c:54:6:save_time_event	1
+../Drivers/UI/ui_events.c:75:5:calculate_weekday	4
+../Drivers/UI/ui_events.c:88:6:save_date_event	1
+../Drivers/UI/ui_events.c:113:6:init_static_time_save	1
+../Drivers/UI/ui_events.c:118:6:init_static_date_save	12

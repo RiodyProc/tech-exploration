@@ -1,0 +1,5 @@
+../Display/ili9341.c:57:16:ILI9341_MemoryDataAccessControlConfig	7
+../Display/ili9341.c:69:10:ILI9341_Init	5
+../Display/ili9341.c:82:10:ILI9341_SetWindow	1
+../Display/ili9341.c:91:10:ILI9341_SleepIn	1
+../Display/ili9341.c:96:10:ILI9341_SleepOut	1

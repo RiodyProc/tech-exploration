@@ -1,0 +1,5 @@
+../Core/Src/TouchController.c:29:6:lv_port_indev_init	1
+../Core/Src/TouchController.c:58:13:touchpad_init	1
+../Core/Src/TouchController.c:73:13:touchpad_read	2
+../Core/Src/TouchController.c:93:13:touchpad_is_pressed	3
+../Core/Src/TouchController.c:104:13:touchpad_get_xy	1
