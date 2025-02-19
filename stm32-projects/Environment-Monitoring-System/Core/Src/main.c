@@ -593,22 +593,17 @@ int main(void)
 // TIMER FOR RTC UPDATE IN LVGL
     lv_timer_create(update_time_and_date, 1000, NULL);  // 1000 ms = 1 s
 //
-    extern uint8_t rx_buf[1025];
-    extern uint8_t tx_buf[10];
-    extern unsigned int addr;
-
-    unsigned int cur_page;
-    unsigned int pageSize;
-    unsigned int pageCount;
-
-    LL_SPI_Enable(SPI1);
+   
+//	FLASH
+	LL_SPI_Enable(SPI1);
 
     if(!Flash_Init())
     	uart_send_string("Flash_Init error...");
     else
     	uart_send_string("Flash_Init OK!");
+//
 
-// FLASH FROM SENSOR DATA UPDATING(+TIMER)
+// FLASH UPDATING(TIMER)
   // Enable interrupt for timer to update the flash write flag
   LL_TIM_EnableIT_UPDATE(TIM1);
 
